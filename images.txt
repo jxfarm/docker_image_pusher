@@ -1,1 +1,1 @@
-ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server:server_latest
+fishaudio/fish-speech-1.5
