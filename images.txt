@@ -1,1 +1,1 @@
-fishaudio/fish-speech-1.5
+breakstring/gpt-sovits:latest
