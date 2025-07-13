@@ -1,1 +1,1 @@
-docker pull keking/kkfileview:latest # 自动匹配x86架构 
+docker pull registry.cn-hangzhou.aliyuncs.com/shrimp-images/alpine
