@@ -1,1 +1,1 @@
-ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server:web_latest
+docker pull keking/kkfileview:4.1.0
