@@ -1,2 +1,5 @@
 ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server:server_latest
 keking/kkfileview:4.1.0
+ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server:web_latest
+mysql:latest
+redis
