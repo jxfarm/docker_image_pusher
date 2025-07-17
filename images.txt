@@ -4,4 +4,4 @@ ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server:web_latest
 mysql:latest
 redis
 onlyoffice/documentserver:7.5.1
-onlyoffice/documentserver:9.0.0  # 替换为所需版本号 
+onlyoffice/documentserver:9.0.0
