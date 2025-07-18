@@ -1,2 +1,3 @@
 onlyoffice/documentserver
 gtstef/filebrowser
+onlyoffice/workspace:latest
