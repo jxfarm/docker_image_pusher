@@ -1,4 +1,3 @@
 onlyoffice/documentserver
 gtstef/filebrowser
 onlyoffice/communityserver:latest
-onlyoffice/communityserver:latest
