@@ -1,3 +1,4 @@
 onlyoffice/documentserver
 gtstef/filebrowser
 onlyoffice/communityserver:latest
+onlyoffice/workspace:7.5
