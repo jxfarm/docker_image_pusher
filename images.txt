@@ -1,4 +1,4 @@
 onlyoffice/documentserver
 gtstef/filebrowser
 onlyoffice/communityserver:latest
-docker.1ms.run/fs185085781/webos
+docker.1ms.run/fs185085781/webos:latest
